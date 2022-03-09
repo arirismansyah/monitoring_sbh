@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".GetDataActivity"
+    tools:context=".Activities.GetDataActivity"
     android:background="@color/blue">
 
     <ProgressBar
@@ -30,6 +30,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/progressGetData"
-        app:layout_constraintVertical_bias="0.1"></TextView>
+        app:layout_constraintVertical_bias="0.05"></TextView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
