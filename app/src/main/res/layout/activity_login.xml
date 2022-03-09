@@ -82,8 +82,7 @@
             android:background="@color/white"
             android:focusable="true"
             android:gravity="center"
-            android:hint="Username"
-            ></com.google.android.material.textfield.TextInputEditText>
+            android:hint="Username"></com.google.android.material.textfield.TextInputEditText>
 
     </RelativeLayout>
 
